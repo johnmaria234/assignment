@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="Logintest" project="internshala" tests="3" started="3" failures="0" errors="0" ignored="0">
+  <testsuite name="internshala.Logintest" time="13.049" displayname="Logintest" uniqueid="[engine:junit-vintage]/[runner:internshala.Logintest]">
+    <testcase name="wronglogintest3" classname="internshala.Logintest" time="5.155" displayname="wronglogintest3" uniqueid="[engine:junit-vintage]/[runner:internshala.Logintest]/[test:wronglogintest3(internshala.Logintest)]"/>
+    <testcase name="logintest1" classname="internshala.Logintest" time="4.308" displayname="logintest1" uniqueid="[engine:junit-vintage]/[runner:internshala.Logintest]/[test:logintest1(internshala.Logintest)]"/>
+    <testcase name="emptylogintest2" classname="internshala.Logintest" time="3.586" displayname="emptylogintest2" uniqueid="[engine:junit-vintage]/[runner:internshala.Logintest]/[test:emptylogintest2(internshala.Logintest)]"/>
+  </testsuite>
+</testrun>
