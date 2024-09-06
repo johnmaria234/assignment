@@ -73,6 +73,6 @@ public class Logintest {
 		public void end() {
 		// Close the WebDriver
 	driver.close();}
-	 
+	 	public static void main(String[] args) {}
 	
 }
